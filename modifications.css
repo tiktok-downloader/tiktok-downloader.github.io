@@ -1,0 +1,21 @@
+#downloader {
+  background-color: black;
+}
+
+.btn-xxl {
+  width: calc(100% - 40px);
+  font-size: 18px;
+}
+
+.btn.w-pointer {
+  position: relative;
+}
+
+.btn .pointer {
+  position: absolute;
+  top: 40px;
+  right: 20%;
+  width: 64px;
+  height: 64px;
+  transform: rotate(-20deg);
+}
